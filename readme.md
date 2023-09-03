@@ -2,7 +2,7 @@
 
 This is a front-end clone of the Lulu Hypermarket Malaysia landing page, built using HTML, CSS, and vanilla JavaScript. The page features a simple and clean design, with a focus on the shopping experience.
 
-🚀 Features
+🚀 Features in the app
 
 Responsive design for optimal viewing on all devices
 Customizable product listings with images, names, prices, and add-to-cart buttons
@@ -23,5 +23,5 @@ HTML
 CSS
 JavaScript
 
-📄 License
+📄 License 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit. 📜
