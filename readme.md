@@ -1,5 +1,3 @@
-🛒 Lulu Hypermarket Malaysia Clone
-
 This is a front-end clone of the Lulu Hypermarket Malaysia landing page, built using HTML, CSS, and vanilla JavaScript. The page features a simple and clean design, with a focus on the shopping experience.
 
 
