@@ -1,4 +1,4 @@
-This is a front-end clone of the Lulu Hypermarket Malaysia landing page, built using HTML, CSS, and vanilla JavaScript. The page features a simple and clean design, with a focus on the shopping experience.
+This is a front-end clone of the Lulu Hypermarket Malaysia landing page, built using HTML, CSS, and vanilla JavaScript. The page features a simple and clean design, with a focus on the shopping experience. 
 
 
 🚀 Features outside the app
@@ -14,7 +14,7 @@ Simple and intuitive user interface for easy navigation and customization
 To get started with this clone, simply clone the repository to your local machine and open the index.html file in your web browser. You can then customize the product listings, checkout process, and email notifications as needed.
 
 📝 Usage
-To use this clone, simply open the index.html file in your web browser and start shopping! You can browse the product listings, add items to your cart, and proceed to the checkout process. Once you have completed the payment, you will receive a confirmation message with a link to track your order status.
+To use this clone, simply open the index.html file in your web browser and start shopping! You can browse the product listings, add items to your cart, and proceed to the checkout process. Once you have completed the payment, you will receive a confirmation message with a link to track your order.
 
 🙌 Credits
 This clone was built by Furqan Qadri who is the owner of this repo.
